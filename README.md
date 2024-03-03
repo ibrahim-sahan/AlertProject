@@ -26,8 +26,8 @@ This project is created for the purpose of learning how to use UIAlertController
 
   
 - If the passwords entered twice don't match, an alert is displayed with the message "Passwords don't match".
-- If all the validations pass, an alert is displayed with the message "User OK" indicating successful sign-up (you can further enhance this logic with actual sign-up functionality).
-
+- If all the validations pass, an alert is displayed with the message "User OK" indicating successful sign-up.
+  
 ### Usage
 
 1. Use `git clone https://github.com/ibrahim-sahan/AlertProject.git` to clone this repository locally.
